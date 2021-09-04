@@ -1,5 +1,5 @@
 
-print('PENENTUAN HARI')
+print('PENENTUAN NAMA HARI')
 print('------------------------------------------')
 
 print('\n')
