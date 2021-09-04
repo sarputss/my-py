@@ -2,7 +2,7 @@ import sys
 total = []
 
 print("--------------------------")
-print("KASIR AA")
+print("TOKO BUKU HIKARI")
 print("-------------------------------")
 
 def daftar_barang():
@@ -85,7 +85,7 @@ def akhir():
             print("Kembalian        :", kembalian)
 
         print("-------------------------------")
-        print("          THANK YOU         ")
+        print("          ARIGATHANKS         ")
         print("-------------------------------")
 
 daftar_barang()
