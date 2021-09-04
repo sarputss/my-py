@@ -1,2 +1,2 @@
-# my-py
-.py from others source and modified by me
+#Read This 
+These codes made by me and also modified by me from others source.
