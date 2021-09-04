@@ -1,2 +1,2 @@
 
-These codes made by me and also modified by me from others source.
+These codes made and modified by me from others source.
